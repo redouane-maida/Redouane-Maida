@@ -1,5 +1,5 @@
 # 👋👋👋
-<img src="https://cdn.futura-sciences.com/cdn-cgi/image/width=1024,quality=60,format=auto/sources/images/screen/HIGH%20TECH/Informatique/210311-informatique-43.jpg">
+<img src="https://png.pngtree.com/thumb_back/fw800/background/20240528/pngtree-futuristic-ai-technology-background-computer-industry-wallpaper-design-image_15799444.jpg">
 
 
 ## 💫 MOI
