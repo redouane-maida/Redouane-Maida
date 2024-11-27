@@ -1,14 +1,14 @@
-## Hi there 👋
+# 👋👋👋
 <img src="https://files.oaiusercontent.com/file-Jh2KcwAuosBJp5B6XbGbNs?se=2024-11-27T11%3A00%3A53Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0b5a583d-47d2-4d83-a414-1db66f422bb9.webp&sig=nGO5xkusuYvu3rthRMsk4IoHnOggSvmj/hH05LgZA3I%3D">
 
 
-# 💫 About Me
-I am currently an IT student at La Plateforme_, a school based in Marseille specialized in digital careers. Passionate about creating and learning about websites and interactive applications, I am developing my skills in HTML, CSS, Python, and soon in modern frameworks. I am motivated, curious, and always ready to take on new challenges. 
+## 💫 MOI
+Salut je suis Maida Redouane un étudiant d'une école informatique nommée la plateforme située à Marseille, en ce moment j'apprends a coder dans différents langages informatique (HTML/CSS, PYTHON) et j'apprend aussi la Cyber Sécurité.
 #
-🎯 My goal is to become a versatile developer capable of contributing to ambitious projects in collaborative environments.
+🎯 Mon but est de devenir meilleur dans le domaine de l'informatique. 
 #
-🚀 I am currently looking for an apprenticeship to further develop my skills and gain professional experience in web development.
-#
+
+
 
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
