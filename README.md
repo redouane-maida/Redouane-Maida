@@ -19,7 +19,7 @@ Salut je suis Maida Redouane un étudiant d'une école informatique nommée la p
 
 ###
 
-📧 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqbkccGFhTchgDlGpXkMhCVtTnXkkvCQkGDrVQZXsgBsJVPLfmHBkMwggxNrsRWZwDlFg" >Mon émail</a>
+📧 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqbkccGFhTchgDlGpXkMhCVtTnXkkvCQkGDrVQZXsgBsJVPLfmHBkMwggxNrsRWZwDlFg" >Mon Email</a>
 
 ###
 #
