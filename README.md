@@ -1,4 +1,4 @@
-# 👋👋👋                                                                                                                                                        👋👋👋
+
 <img src="https://png.pngtree.com/thumb_back/fw800/background/20240528/pngtree-futuristic-ai-technology-background-computer-industry-wallpaper-design-image_15799444.jpg">
 
 
