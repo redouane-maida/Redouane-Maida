@@ -22,3 +22,8 @@ Salut je suis Maida Redouane un étudiant d'une école informatique nommée la p
 <p align="left">📧 Email : redouane.maida@laplateforme.io</p>
 
 ###
+#
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=redouane-maida&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=redouane-maida&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=redouane-maida&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
